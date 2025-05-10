@@ -1,0 +1,19 @@
+players_game_count.sql - количество партий по игрокам (от большего к меньшему)
+
+inactive_users.sql - игроки, не сыгравшие ни одной партии за 3 года
+
+global_game_stats.sql - глобальная статистика по играм (количество побед белых, черных и ничьих)
+
+top_players.sql - топ-5 игроков
+
+most_communicative_players.sql - топ-5 самых общительных игроков
+
+popular_openings.sql - самые популярные начала партий
+
+average_game_length.sql - средняя длина партий
+
+maximum_game_length.sql - максимальная длина партий
+
+most_popular_friends.sql - игроки с самым большим количеством друзей
+
+oldest_users.sql - самые старые пользователи (по времени регистрации)
